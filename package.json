@@ -1,6 +1,6 @@
 {
   "name": "mongoose-paranoid_remove",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides methods to set documents as deleted rather than destroy them.",
   "main": "index.js",
   "scripts": {
