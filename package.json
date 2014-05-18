@@ -1,0 +1,28 @@
+{
+  "name": "mongoose-paranoid_remove",
+  "version": "0.0.1",
+  "description": "Provides methods to set documents as deleted rather than destroy them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aanfuso/mongoose-paranoid_remove"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "timestamps",
+    "deltedAt",
+    "plugin",
+    "paranoid",
+    "remove"
+  ],
+  "author": "Agustin Anfuso <@aanfuso>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aanfuso/mongoose-paranoid_remove/issues"
+  },
+  "homepage": "https://github.com/aanfuso/mongoose-paranoid_remove"
+}
